@@ -14,9 +14,6 @@ namespace yetopen\smssender;
  */
 interface SmsSenderInterface
 {
-    const MIN_TEXT_LENGTH = NULL;
-    const MAX_TEXT_LENGTH = NULL;
-
     /**
      * @return int
      */
