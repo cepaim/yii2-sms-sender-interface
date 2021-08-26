@@ -3,7 +3,7 @@
 namespace yetopen\smssender;
 
 /**
- * MailerInterface is the interface that should be implemented by mailer classes.
+ * SmsSenderInterface is the interface that should be implemented by mailer classes.
  *
  * A mailer should mainly support creating and sending [[MessageInterface|mail messages]]. It should
  * also support composition of the message body through the view rendering mechanism. For example,
