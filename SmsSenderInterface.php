@@ -27,7 +27,7 @@ interface SmsSenderInterface
     /**
      * Send the message given the phone number and message.
      *
-     * @param array $number Recipient number.
+     * @param array|string $number Recipients phone numbers.
      *
      * @param string $message Message to send.
      *
