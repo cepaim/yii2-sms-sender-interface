@@ -1,6 +1,10 @@
 Yii2 SMS Sender Interface
 ===========================
 
+0.1.2 08 Jul, 2022
+-------------------------
+- Update php doc for send method
+
 0.1.1 17 Sep, 2021
 -------------------------
 
